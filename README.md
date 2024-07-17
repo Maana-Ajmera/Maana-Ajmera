@@ -23,3 +23,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maana-ajmera&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maana-ajmera&theme=dark&hide_border=false)<br/>
+
+<h3 align="left">Badges Earned (From GSSOC'24):</h3>
+
+<p align="left">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="150" height="150">
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="150" height="150">
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="150" height="150">
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="150" height="150">
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="150" height="150">
+</p>
