@@ -32,4 +32,5 @@
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="150" height="150">
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="150" height="150">
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="150" height="150">
+ <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=150" alt="GSSoC Badge 6" width="150" height="150">
 </p>
