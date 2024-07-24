@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=maana-ajmera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maana-ajmera&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maana-ajmera&theme=dark&hide_border=false)<br/>
 
