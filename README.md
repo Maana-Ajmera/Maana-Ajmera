@@ -2,7 +2,7 @@
     <img src="https://assets-global.website-files.com/6344c9cef89d6f2270a38908/65725709c91402ab52b1c2b9_Best%207%2B%20Coding%20Languages%20for%20a%20SaaS%20Tech%20Stack%202023%20Guide.webp" height="300rem" width='100%'/>
 </p>
 <h1 align="center">Hi 👋, I'm Maana Ajmera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maana-ajmera&label=Profile%20views&color=0e75b6&style=flat" alt="maana-ajmera" /> </p>
 
