@@ -36,5 +36,4 @@
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="150" height="150">
  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=150" alt="GSSoC Badge 6" width="150" height="150">
 </p>
-<h3 align="left">Hacktoberfest 2024</h3>
-[![An image of @maanaajmera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maanaajmera)](https://holopin.io/@maanaajmera)
+
