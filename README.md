@@ -28,7 +28,7 @@
 <h3 align="left">Badges Earned (From GSSOC'24):</h3>
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="150px" height="150px" />
+<!--  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="150px" height="150px" /> -->
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="150" height="150">
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="150" height="150">
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="150" height="150">
